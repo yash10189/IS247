@@ -1,3 +1,5 @@
 # IS247
 Group Project
-Debora Ayele, Deemah Abusway, Dayan Ali, Yash Antil, and Ramkrish Velivela
+Debora Ayele: Developer, Deemah Abusway: Developer, Dayan Ali: Project Manager, Yash Antil: Developer, and Ramkrish Velivela: Developer/Manager
+
+
