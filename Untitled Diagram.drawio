@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T20:59:08.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7knhLADVoADkWa_9Rq41" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T20:59:38.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xBGcjFBRi7nAjxxO4Z8t" version="24.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="5691" dy="2873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SU3t28wgPJ9NKQDOwQ-d-57" value="Main uses Hotel&lt;div&gt;Hotel implements ReservationInterface&lt;/div&gt;&lt;div&gt;Hotel has a composition relationship with all the classes connected with a blue arrow&lt;/div&gt;&lt;div&gt;Customer extends Person&lt;/div&gt;&lt;div&gt;Reservation is associated with the Room and Customer classes&lt;/div&gt;&lt;div&gt;Finally RoomList manages a list of Room objects&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-688" y="50" width="470" height="110" as="geometry" />
+          <mxGeometry x="200" y="90" width="470" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
